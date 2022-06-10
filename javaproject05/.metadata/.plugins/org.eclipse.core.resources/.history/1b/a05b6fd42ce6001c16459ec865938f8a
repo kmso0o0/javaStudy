@@ -1,0 +1,9 @@
+package org.java.varable;
+
+public class VarEx1 {
+
+	public static void main(String[] args) {
+		System.out.println("º¯¼ö");
+	}
+}
+

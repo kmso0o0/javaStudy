@@ -1,0 +1,19 @@
+package test;
+
+import java.util.Scanner;
+
+public class test {
+
+	public static void main(String[] args) {
+		Scanner scn=new Scanner(System.in);
+		int i1=scn.nextInt();
+		System.out.println("±¹¾î:"+i1);
+		int i2=scn.nextInt();
+		System.out.println("¿µ¾î:"+i2);
+		int i3=scn.nextInt();
+		System.out.println("¼öÇÐ:"+i3);
+		
+		System.out.println("ÃÑÁ¡:"+(i1+i2+i3));
+		System.out.println("Æò±Õ:"+((i1+i2+i3)%3));
+	}
+}

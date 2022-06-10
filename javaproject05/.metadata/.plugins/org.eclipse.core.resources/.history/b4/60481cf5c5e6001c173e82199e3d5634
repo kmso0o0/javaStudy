@@ -1,0 +1,9 @@
+package org.java.varable2;
+
+public class VarEx1 {
+
+	public VarEx1() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

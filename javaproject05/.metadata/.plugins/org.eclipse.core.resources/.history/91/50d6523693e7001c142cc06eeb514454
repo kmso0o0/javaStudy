@@ -1,0 +1,16 @@
+package org.java.operator;
+
+public class Operator11 {
+
+	public static void main(String[] args) {
+
+		System.out.println("»ïÇ× ¿¬»êÀÚ");
+
+		int i=10;
+		
+		System.out.println(i>10?true:false);
+//		i>10?true:false;
+		
+
+	}
+}

@@ -1,0 +1,27 @@
+package org.java.varable;
+
+public class VarEx1 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("º¯¼ö");
+		System.out.println("javaÀÇ primitive type");
+		
+		byte b=10;
+		short s=10;
+		int i=10;
+		long l=101;
+		
+		float f=1.1f;
+		double d=1.1;
+		
+		char ch='a';
+		
+		boolean bool=false;
+		
+		
+		
+			
+	}
+}
+
